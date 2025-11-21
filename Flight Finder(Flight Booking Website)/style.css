@@ -1,0 +1,52 @@
+.logo {
+      height: 60px;
+ }
+.sai{
+    background: url('white\ sky.jpeg');
+    background-size: cover;
+ }
+.navbar-brand {
+      font-size: 40px;
+      font-weight: bold;
+ }
+.flight {
+      height: 60vh;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: url('airplane.jpg');
+      background-size: cover;
+      background-position: center;  /* Centers the image */
+      background-repeat: no-repeat; /* Prevents tiling */
+       height: 100vh;                /* Full height of the viewport */
+      width: 100%;  
+       
+ }
+ .flight h1 {
+      font-size: 3rem;
+      background: rgba(0,0,0,0.5);
+      padding: 20px;
+      border-radius: 10px;
+      cursor: pointer;
+ }
+.nav-link {
+      font-size: 20px;
+      font-weight: bold;
+}
+.section {
+      padding: 60px 20px;
+}
+.form-container {
+      width: 500px;
+      background-color: grey;
+      margin: 30px auto;
+      padding: 20px;
+      border-radius: 10px;
+      color: white;
+}
+.form-toggle {
+      cursor: pointer;
+      color: lightblue;
+      text-decoration: underline;
+}
